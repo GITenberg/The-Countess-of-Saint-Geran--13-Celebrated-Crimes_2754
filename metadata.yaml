@@ -1,0 +1,36 @@
+_repo: The-Countess-of-Saint-Geran--13-Celebrated-Crimes_2754
+_version: 0.0.1
+alternative_title: La Comtesse de Saint-Geran
+covers:
+- cover_type: archival
+  image_path: 2754/2754-rst/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    - Dumas père, Alexandre
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_bookshelf: Crime Nonfiction
+gutenberg_issued: '2006-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crime'
+- !lcc 'HV'
+- GITenberg
+title: "The Countess of Saint Geran\r\nCelebrated Crimes"
+url: http://www.gutenberg.org/ebooks/2754
