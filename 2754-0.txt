@@ -1,22 +1,21 @@
 ﻿                      THE COUNTESS DE SAINT-GERAN
 
 
-This eBook is for the use of anyone anywhere at no cost and with almost
-no restrictions whatsoever. You may copy it, give it away or re-use it
-under the terms of the Project Gutenberg License included with this
-eBook or online at http://www.gutenberg.org/license.
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online at
+http://www.gutenberg.org/license. If you are not located in the United
+States, you’ll have to check the laws of the country where you are
+located before using this ebook.
+
 
 
 Title: The Countess of Saint-Geran
-
 Author: Alexandre Dumas, Pere
-
 Release Date: August 15, 2006 [EBook #2754]
-
-Last Updated: 2012-02-20
-
+Reposted: November 28, 2016 [corrections made]
 Language: English
-
 Character set encoding: UTF-8
 
 
@@ -31,13 +30,14 @@ Produced by David Widger.
 
 
 
+
                      *THE COUNTESS DE SAINT-GERAN*
 
                                   _By_
 
                         *Alexandre Dumas, Pere*
 
-         _From the set of Eight Volumes of "Celebrated Crimes"_
+         _From the set of Eight Volumes of “Celebrated Crimes”_
 
 
                                   1910
@@ -48,7 +48,6 @@ Produced by David Widger.
 CONTENTS
 
 
-    CONTENTS
     *THE COUNTESS DE SAINT-GERAN—1639*
 
 
@@ -98,37 +97,37 @@ to tether their horses under a shed in the back yard; then he pointed to
 a stool for the prisoner, and seated himself opposite to him, rapping
 the table with his thick cane.
 
-"Ouf!" he cried, with a fresh groan of weariness, "I heartily beg your
-pardon, marquis, for the bad wine I am giving you!"
+“Ouf!” he cried, with a fresh groan of weariness, “I heartily beg your
+pardon, marquis, for the bad wine I am giving you!”
 
 The young man smiled gaily.
 
-"The wine is all very well, monsieur provost," said he, "but I cannot
+“The wine is all very well, monsieur provost,” said he, “but I cannot
 conceal from you that however agreeable your company is to me, this halt
 is very inconvenient; I am in a hurry to get through my ridiculous
 situation, and I should have liked to arrive in time to stop this affair
-at once."
+at once.”
 
 The girl of the house was standing before the table with a pewter pot
 which she had just brought, and at these words she raised her eyes on
-the prisoner, with a reassured look which seemed to say, "I was sure
-that he was innocent."
+the prisoner, with a reassured look which seemed to say, “I was sure
+that he was innocent.”
 
-"But," continued the marquis, carrying the glass to his lips, "this wine
-is not so bad as you say, monsieur provost."
+“But,” continued the marquis, carrying the glass to his lips, “this wine
+is not so bad as you say, monsieur provost.”
 
 Then turning to the girl, who was eyeing his gloves and his ruff—
 
-"To your health, pretty child."
+“To your health, pretty child.”
 
-"Then," said the provost, amazed at this free and easy air, "perhaps I
-shall have to beg you to excuse your sleeping quarters."
+“Then,” said the provost, amazed at this free and easy air, “perhaps I
+shall have to beg you to excuse your sleeping quarters.”
 
-"What!" exclaimed the marquis, "do we sleep here?"
+“What!” exclaimed the marquis, “do we sleep here?”
 
-"My lord;" said the provost, "we have sixteen long leagues to make, our
+“My lord;” said the provost, “we have sixteen long leagues to make, our
 horses are done up, and so far as I am concerned I declare that I am no
-better than my horse."
+better than my horse.”
 
 The marquis knocked on the table, and gave every indication of being
 greatly annoyed. The provost meanwhile puffed and blowed, stretched out
@@ -136,27 +135,27 @@ his big boots, and mopped his forehead with his handkerchief. He was a
 portly man, with a puffy face, whom fatigue rendered singularly
 uncomfortable.
 
-"Marquis," said he, "although your company, which affords me the
+“Marquis,” said he, “although your company, which affords me the
 opportunity of showing you some attention, is very precious to me, you
 cannot doubt that I had much rather enjoy it on another footing. If it
 be within your power, as you say, to release yourself from the hands of
 justice, the sooner you do so the better I shall be pleased. But I beg
 you to consider the state we are in. For my part, I am unfit to keep the
 saddle another hour, and are you not yourself knocked up by this forced
-march in the great heat?"
+march in the great heat?”
 
-"True, so I am," said the marquis, letting his arms fall by his side.
+“True, so I am,” said the marquis, letting his arms fall by his side.
 
-"Well, then, let us rest here, sup here, if we can, and we will start
-quite fit in the cool of the morning."
+“Well, then, let us rest here, sup here, if we can, and we will start
+quite fit in the cool of the morning.”
 
-"Agreed," replied the marquis; "but then let us pass the time in a
+“Agreed,” replied the marquis; “but then let us pass the time in a
 becoming manner. I have two pistoles left, let them be given to these
 good fellows to drink. It is only fair that I should treat them, seeing
-that I am the cause of giving them so much trouble."
+that I am the cause of giving them so much trouble.”
 
 He threw two pieces of money on the table of the soldiers, who cried in
-chorus, "Long live M. the marquis!" The provost rose, went to post
+chorus, “Long live M. the marquis!” The provost rose, went to post
 sentinels, and then repaired to the kitchen, where he ordered the best
 supper that could be got. The men pulled out dice and began to drink and
 play. The marquis hummed an air in the middle of the room, twirled his
@@ -165,8 +164,8 @@ gently drew a purse from his trousers pocket, and as the daughter of the
 house was coming and going, he threw his arms round her neck as if to
 kiss her, and whispered, slipping ten Louis into her hand—
 
-"The key of the front door in my room, and a quart of liquor to the
-sentinels, and you save my life."
+“The key of the front door in my room, and a quart of liquor to the
+sentinels, and you save my life.”
 
 The girl went backwards nearly to the door, and returning with an
 expressive look, made an affirmative sign with her hand. The provost
@@ -175,8 +174,8 @@ man more at home at table than in the saddle. The marquis plied him with
 bumpers, and sleepiness, added to the fumes of a very heady wine, caused
 him to repeat over and over again—
 
-"Confound it all, marquis, I can’t believe you are such a blackguard as
-they say you are; you seem to me a jolly good sort."
+“Confound it all, marquis, I can’t believe you are such a blackguard as
+they say you are; you seem to me a jolly good sort.”
 
 The marquis thought he was ready to fall under the table, and was
 beginning to open negotiations with the daughter of the house, when, to
@@ -204,58 +203,58 @@ the window was from the street. The marquis had only to jump over one
 side or the other: he hesitated for some time, and just as he was
 deciding to leap into the street, at the risk of breaking his neck, two
 taps were struck on the door. He jumped for joy, saying to himself as he
-opened, "I am saved!" A kind of shadow glided into the room; the young
+opened, “I am saved!” A kind of shadow glided into the room; the young
 girl trembled from head to foot, and could not say a word. The marquis
 reassured her with all sorts of caresses.
 
-"Ah, sir," said she, "I am dead if we are surprised."
+“Ah, sir,” said she, “I am dead if we are surprised.”
 
-"Yes," said the marquis, "but your fortune is made if you get me out of
-here."
+“Yes,” said the marquis, “but your fortune is made if you get me out of
+here.”
 
-"God is my witness that I would with all my soul, but I have such a bad
-piece of news——"
+“God is my witness that I would with all my soul, but I have such a bad
+piece of news——”
 
 She stopped, suffocated with varying emotions. The poor girl had come
 barefooted, for fear of making a noise, and appeared to be shivering.
 
-"What is the matter?" impatiently asked the marquis.
+“What is the matter?” impatiently asked the marquis.
 
-"Before going to bed," she continued, "M. the provost has required from
+“Before going to bed,” she continued, “M. the provost has required from
 my father all the keys of the house, and has made him take a great oath
 that there are no more. My father has given him all: besides, there is a
 sentinel at every door; but they are very tired; I have heard them
 muttering and grumbling, and I have given them more wine than you told
-me."
+me.”
 
-"They will sleep," said the marquis, nowise discouraged, "and they have
+“They will sleep,” said the marquis, nowise discouraged, “and they have
 already shown great respect to my rank in not nailing me up in this
-room."
+room.”
 
-"There is a small kitchen garden," continued the girl, "on the side of
-the fields, fenced in only by a loose hurdle, but——"
+“There is a small kitchen garden,” continued the girl, “on the side of
+the fields, fenced in only by a loose hurdle, but——”
 
-"Where is my horse?"
+“Where is my horse?”
 
-"No doubt in the shed with the rest."
+“No doubt in the shed with the rest.”
 
-"I will jump into the yard."
+“I will jump into the yard.”
 
-"You will be killed."
+“You will be killed.”
 
-"So much the better!"
+“So much the better!”
 
-"Ah monsieur marquis, what have, you done?" said the young girl with
+“Ah monsieur marquis, what have, you done?” said the young girl with
 grief.
 
-"Some foolish things! nothing worth mentioning; but my head and my
-honour are at stake. Let us lose no time; I have made up my mind."
+“Some foolish things! nothing worth mentioning; but my head and my
+honour are at stake. Let us lose no time; I have made up my mind.”
 
-"Stay," replied the girl, grasping his arm; "at the left-hand corner of
+“Stay,” replied the girl, grasping his arm; “at the left-hand corner of
 the yard there is a large heap of straw, the gallery hangs just over
-it—"
+it—”
 
-"Bravo! I shall make less noise, and do myself less mischief." He made a
+“Bravo! I shall make less noise, and do myself less mischief.” He made a
 step towards the door; the girl, hardly knowing what she was doing,
 tried to detain him; but he got loose from her and opened it. The moon
 was shining brightly into the yard; he heard no sound. He proceeded to
@@ -268,13 +267,13 @@ conversation and passing between them a pint of wine. The marquis crept
 back to his door, holding his breath: the girl was awaiting him on the
 threshold.
 
-"I told you it was not yet time," said she.
+“I told you it was not yet time,” said she.
 
-"Have you never a knife," said the marquis, "to cut those rascals’
-throats with?"
+“Have you never a knife,” said the marquis, “to cut those rascals’
+throats with?”
 
-"Wait, I entreat you, one hour, one hour only," murmured the young girl;
-"in an hour they will all be asleep."
+“Wait, I entreat you, one hour, one hour only,” murmured the young girl;
+“in an hour they will all be asleep.”
 
 The girl’s voice was so sweet, the arms which she stretched towards him
 were full of such gentle entreaty, that the marquis waited, and at the
@@ -286,11 +285,11 @@ time but dogs barking far away in an otherwise silent country. He leaned
 over the balustrade, and saw: very plainly a soldier lying prone on the
 straw.
 
-"If they were to awake?" murmured the young girl in accents of anguish.
+“If they were to awake?” murmured the young girl in accents of anguish.
 
-"They will not take me alive, be assured," said the marquis.
+“They will not take me alive, be assured,” said the marquis.
 
-"Adieu, then," replied she, sobbing; "may Heaven preserve you!"
+“Adieu, then,” replied she, sobbing; “may Heaven preserve you!”
 
 He bestrode the balustrade, spread himself out upon it, and fell heavily
 on the dungheap. The young girl saw him run to the shed, hastily detach
@@ -334,7 +333,7 @@ wind, leaving fifty yards behind him the non-commissioned officer,
 dumbfounded with what had just passed before his eyes.
 
 The main body of the escort galloped up, thinking that he was taken; and
-the provost shouted till he was hoarse, "Do not kill him!" But they
+the provost shouted till he was hoarse, “Do not kill him!” But they
 found only the sergeant, trying to restore life to his man, whose skull
 was shattered, and who lay dead on the spot.
 
@@ -351,22 +350,22 @@ him to get out of the way; but the peasant remained planted on the
 roadside without stirring an inch. The marquis advanced with threatening
 looks, and asked how he dared to stare at him like that.
 
-"The reason is," said the peasant, "that you have——", and he pointed to
+“The reason is,” said the peasant, “that you have——”, and he pointed to
 his shoulder and his ruff.
 
 The marquis glanced at his dress, and saw that his coat was dabbled in
 blood, which, added to the disorder of his clothes and the dust with
 which he was covered, gave him a most suspicious aspect.
 
-"I know," said he. "I and my servant have been separated in a scuffle
+“I know,” said he. “I and my servant have been separated in a scuffle
 with some drunken Germans; it’s only a tipsy spree, and whether I have
 got scratched, or whether in collaring one of these fellows I have drawn
 some of his blood, it all arises from the row. I don’t think I am hurt a
-bit." So saying, he pretended to feel all over his body.
+bit.” So saying, he pretended to feel all over his body.
 
-"All the same," he continued, "I should not be sorry to have a wash;
+“All the same,” he continued, “I should not be sorry to have a wash;
 besides, I am dying with thirst and heat, and my horse is in no better
-case. Do you know where I can rest and refresh myself?"
+case. Do you know where I can rest and refresh myself?”
 
 The peasant offered to guide him to his own house, only a few yards off.
 His wife and children, who were working, respectfully stood aside, and
@@ -382,23 +381,23 @@ The peasant replied, with regard to this, that it was surprising to hear
 of disturbances on the highway at this moment, when it was patrolled by
 detachments of mounted police, who had just made an important capture.
 
-"Who is that?—" asked the marquis.
+“Who is that?—” asked the marquis.
 
-"Oh," said the peasant, "a nobleman who has done a lot of mischief in
-the country."
+“Oh,” said the peasant, “a nobleman who has done a lot of mischief in
+the country.”
 
-"What! a nobleman in the hands of justice?"
+“What! a nobleman in the hands of justice?”
 
-"Just so; and he stands a good chance of losing his head."
+“Just so; and he stands a good chance of losing his head.”
 
-"Do they say what he has done?"
+“Do they say what he has done?”
 
-"Shocking things; horrid things; everything he shouldn’t do. All the
-province is exasperated with him."
+“Shocking things; horrid things; everything he shouldn’t do. All the
+province is exasperated with him.”
 
-"Do you know him?"
+“Do you know him?”
 
-"No, but we all have his description."
+“No, but we all have his description.”
 
 As this news was not encouraging, the marquis, after a few more
 questions, saw to his horse, patted him, threw some more money to the
@@ -421,40 +420,40 @@ concealing her joy.
 The provost spread his papers over the table, as if to nurse his
 ill-temper.
 
-"The biggest rascal in the world!" he cried; "I ought to have suspected
-him."
+“The biggest rascal in the world!” he cried; “I ought to have suspected
+him.”
 
-"What a handsome man he was!" said the hostess.
+“What a handsome man he was!” said the hostess.
 
-"A consummate rascal! Do you know who he is? He is the Marquis de
-Saint-Maixent!"
+“A consummate rascal! Do you know who he is? He is the Marquis de
+Saint-Maixent!”
 
-"The Marquis de Saint-Maixent!" all cried with horror.
+“The Marquis de Saint-Maixent!” all cried with horror.
 
-"Yes, the very man," replied the provost; "the Marquis de Saint-Maixent,
-accused, and indeed convicted, of coining and magic."
+“Yes, the very man,” replied the provost; “the Marquis de Saint-Maixent,
+accused, and indeed convicted, of coining and magic.”
 
-"Ah!"
+“Ah!”
 
-"Convicted of incest."
+“Convicted of incest.”
 
-"O my God!"
+“O my God!”
 
-"Convicted of having strangled his wife to marry another, whose husband
-he had first stabbed."
+“Convicted of having strangled his wife to marry another, whose husband
+he had first stabbed.”
 
-"Heaven help us!" All crossed themselves.
+“Heaven help us!” All crossed themselves.
 
-"Yes, good people," continued the furious provost, "this is the nice boy
-who has just escaped the king’s justice!"
+“Yes, good people,” continued the furious provost, “this is the nice boy
+who has just escaped the king’s justice!”
 
 The host’s daughter left the room, for she felt she was going to faint.
 
-"But," said the host, "is there no hope of catching him again?"
+“But,” said the host, “is there no hope of catching him again?”
 
-"Not the slightest, if he has taken the road to the Bourbonnais; for I
+“Not the slightest, if he has taken the road to the Bourbonnais; for I
 believe there are in that province noblemen belonging to his family who
-will not allow him to be rearrested."
+will not allow him to be rearrested.”
 
 The fugitive was, indeed, no other than the Marquis de Saint-Maixent,
 accused of all the enormous crimes detailed by the provost, who by his
@@ -473,11 +472,11 @@ stranger wished to see the Count de Saint-Geran without any further loss
 of time. The servant replied that this was impossible; the other got
 into a passion.
 
-"Who are you?" asked the man in livery.
+“Who are you?” asked the man in livery.
 
-"You are a very ceremonious fellow!" cried the horseman. "Go and tell M.
+“You are a very ceremonious fellow!” cried the horseman. “Go and tell M.
 de Saint-Geran that his relative, the Marquis de Saint-Maixent, wishes
-to see him at once."
+to see him at once.”
 
 The servant made humble apologies, and opened the wicket gate. He then
 walked before the marquis, called other servants, who came to help him
@@ -667,15 +666,15 @@ would bring them. He then said that even supposing the news to be true,
 there were many rocks ahead to be weathered before the succession could
 be pronounced secure.
 
-"The child may die," he said at last.
+“The child may die,” he said at last.
 
 And he uttered some sinister expressions on the slight damage caused by
 the loss of a puny creature without mind, interest, or consequence;
 nothing, he said, but a bit of ill-organised matter, which only came
 into the world to ruin so considerable a person as the marchioness.
 
-"But what is the use of tormenting ourselves?" he went on impatiently;
-"the countess is not pregnant, nor can she be."
+“But what is the use of tormenting ourselves?” he went on impatiently;
+“the countess is not pregnant, nor can she be.”
 
 A gardener working near them overheard this part of the conversation,
 but as they walked away from him he could not hear any more.
@@ -774,87 +773,87 @@ without hesitation, and opened the door. An armed man, apparently much
 agitated, entered the room. Louise Goillard, in a great fright, fell
 into a chair; this man was the Marquis de Saint-Maixent.
 
-"Calm yourself, good woman," said the stranger, panting and stammering;
-"be calm, I beg; for it is I, not you, who have any cause for emotion. I
+“Calm yourself, good woman,” said the stranger, panting and stammering;
+“be calm, I beg; for it is I, not you, who have any cause for emotion. I
 am not a brigand, and far from your having anything to fear, it is I, on
-the contrary, who am come to beg for your assistance."
+the contrary, who am come to beg for your assistance.”
 
 He threw his cloak into a corner, unbuckled his waistbelt, and laid
 aside his sword. Then falling into a chair, he said—
 
-"First of all, let me rest a little."
+“First of all, let me rest a little.”
 
 The marquis wore a travelling-dress; but although he had not stated his
 name, Louise Goillard saw at a glance that he was a very different
 person from what she had thought, and that, on the contrary, he was some
 fine gentleman who had come on his love affairs.
 
-"I beg you to excuse," said she, "a fear which is insulting to you. You
+“I beg you to excuse,” said she, “a fear which is insulting to you. You
 came in so hurriedly that I had not time to see whom I was talking to.
 My house is rather lonely; I am alone; ill-disposed people might easily
 take advantage of these circumstances to plunder a poor woman who has
 little enough to lose. The times are so bad! You seem tired. Will you
-inhale some essence?"
+inhale some essence?”
 
-"Give me only a glass of water."
+“Give me only a glass of water.”
 
 Louise Goillard went into the adjoining room, and returned with an ewer.
 The marquis affected to rinse his lips, and said—
 
-"I come from a great distance on a most important matter. Be assured
-that I shall be properly grateful for your services."
+“I come from a great distance on a most important matter. Be assured
+that I shall be properly grateful for your services.”
 
 He felt in his pocket, and pulled out a purse, which he rolled between
 his fingers.
 
-"In the first place; you must swear to the greatest secrecy."
+“In the first place; you must swear to the greatest secrecy.”
 
-"There is no need of that with us," said Louise Goillard; "that is the
-first condition of our craft."
+“There is no need of that with us,” said Louise Goillard; “that is the
+first condition of our craft.”
 
-"I must have more express guarantees, and your oath that you will reveal
-to no one in the world what I am going to confide to you."
+“I must have more express guarantees, and your oath that you will reveal
+to no one in the world what I am going to confide to you.”
 
-"I give you my word, then, since you demand it; but I repeat that this
-is superfluous; you do not know me."
+“I give you my word, then, since you demand it; but I repeat that this
+is superfluous; you do not know me.”
 
-"Consider that this is a most serious matter, that I am as it were
+“Consider that this is a most serious matter, that I am as it were
 placing my head in your hands, and that I would lose my life a thousand
-times rather than see this mystery unravelled."
+times rather than see this mystery unravelled.”
 
-"Consider also," bluntly replied the midwife, "that we ourselves are
+“Consider also,” bluntly replied the midwife, “that we ourselves are
 primarily interested in all the secrets entrusted to us; that an
 indiscretion would destroy all confidence in us, and that there are even
-cases——You may speak."
+cases——You may speak.”
 
 When the marquis had reassured her as to himself by this preface, he
-continued: "I know that you are a very able woman."
+continued: “I know that you are a very able woman.”
 
-"I could indeed wish to be one, to serve you.".
+“I could indeed wish to be one, to serve you.”.
 
-"That you have pushed the study of your art to its utmost limits."
+“That you have pushed the study of your art to its utmost limits.”
 
-"I fear they have been flattering your humble servant."
+“I fear they have been flattering your humble servant.”
 
-"And that your studies have enabled you to predict the future."
+“And that your studies have enabled you to predict the future.”
 
-"That is all nonsense."
+“That is all nonsense.”
 
-"It is true; I have been told so."
+“It is true; I have been told so.”
 
-"You have been imposed upon."
+“You have been imposed upon.”
 
-"What is the use of denying it and refusing to do me a service?"
+“What is the use of denying it and refusing to do me a service?”
 
 Louise Goillard defended herself long: she could not understand a man of
 this quality believing in fortune-telling, which she practised only with
 low-class people and rich farmers; but the marquis appeared so earnest
 that she knew not what to think.
 
-"Listen," said he, "it is no use dissembling with me, I know all. Be
+“Listen,” said he, “it is no use dissembling with me, I know all. Be
 easy; we are playing a game in which you are laying one against a
 thousand; moreover, here is something on account to compensate you for
-the trouble I am giving."
+the trouble I am giving.”
 
 He laid a pile of gold on the table. The matron weakly owned that she
 had sometimes attempted astrological combinations which were not always
@@ -862,13 +861,13 @@ fortunate, and that she had been only induced to do so by the
 fascination of the phenomena of science. The secret of her guilty
 practices was drawn from her at the very outset of her defence.
 
-"That being so," replied the marquis, "you must be already aware of the
+“That being so,” replied the marquis, “you must be already aware of the
 situation in which I find myself; you must know that, hurried away by a
 blind and ardent passion, I have betrayed the confidence of an old lady
 and violated the laws of hospitality by seducing her daughter in her own
 house; that matters have come to a crisis, and that this noble damsel,
 whom I Love to distraction, being pregnant, is on the point of losing
-her life and honour by the discovery of her fault, which is mine."
+her life and honour by the discovery of her fault, which is mine.”
 
 The matron replied that nothing could be ascertained about a person
 except from private questions; and to further impose upon the marquis,
@@ -880,108 +879,108 @@ him, that he was threatened by still more serious misfortunes than those
 which had already overtaken him, but that it was easy to anticipate and
 obviate these mischances by new consultations.
 
-"Madame," replied the marquis, "I fear only one thing in the world, the
+“Madame,” replied the marquis, “I fear only one thing in the world, the
 dishonour of the woman I love. Is there no method of remedying the usual
-embarrassment of a birth?"
+embarrassment of a birth?”
 
-"I know of none," said the matron.
+“I know of none,” said the matron.
 
-"The young lady has succeeded in concealing her condition; it would be
-easy for her confinement to take place privately."
+“The young lady has succeeded in concealing her condition; it would be
+easy for her confinement to take place privately.”
 
-"She has already risked her life; and I cannot consent to be mixed up in
-this affair, for fear of the consequences."
+“She has already risked her life; and I cannot consent to be mixed up in
+this affair, for fear of the consequences.”
 
-"Could not, for instance," said the marquis, "a confinement be effected
-without pain?"
+“Could not, for instance,” said the marquis, “a confinement be effected
+without pain?”
 
-"I don’t know about that, but this I do" know, that I shall take very
-good care not to practise any method contrary to the laws of nature."
+“I don’t know about that, but this I do” know, that I shall take very
+good care not to practise any method contrary to the laws of nature.”
 
-"You are deceiving me: you are acquainted with this method, you have
-already practised it upon a certain person whom I could name to you."
+“You are deceiving me: you are acquainted with this method, you have
+already practised it upon a certain person whom I could name to you.”
 
-"Who has dared to calumniate me thus? I operate only after the decision
+“Who has dared to calumniate me thus? I operate only after the decision
 of the Faculty. God forbid that I should be stoned by all the
-physicians, and perhaps expelled from France!"
+physicians, and perhaps expelled from France!”
 
-"Will you then let me die of despair? If I were capable of making a bad
+“Will you then let me die of despair? If I were capable of making a bad
 use of your secrets, I could have done so long ago, for I know them. In
 Heaven’s name, do not dissimulate any longer, and tell me how it is
 possible to stifle the pangs of labour. Do you want more gold? Here it
-is." And he threw more Louis on the table.
+is.” And he threw more Louis on the table.
 
-"Stay," said the matron: "there is perhaps a method which I think I have
+“Stay,” said the matron: “there is perhaps a method which I think I have
 discovered, and which I have never employed, but I believe it
-efficacious."
+efficacious.”
 
-"But if you have never employed it, it may be dangerous, and risk the
-life of the lady whom I love."
+“But if you have never employed it, it may be dangerous, and risk the
+life of the lady whom I love.”
 
-"When I say never, I mean that I have tried it once, and most
-successfully. Be at your ease."
+“When I say never, I mean that I have tried it once, and most
+successfully. Be at your ease.”
 
-"Ah!" cried the marquis, "you have earned my everlasting gratitude!
-But," continued he, "if we could anticipate the confinement itself, and
-remove from henceforth the symptoms of pregnancy?"
+“Ah!” cried the marquis, “you have earned my everlasting gratitude!
+But,” continued he, “if we could anticipate the confinement itself, and
+remove from henceforth the symptoms of pregnancy?”
 
-"Oh, sir, that is a great crime you speak of!"
+“Oh, sir, that is a great crime you speak of!”
 
-"Alas!" continued the marquis, as if speaking to himself in a fit of
-intense grief; "I had rather lose a dear child, the pledge of our love,
+“Alas!” continued the marquis, as if speaking to himself in a fit of
+intense grief; “I had rather lose a dear child, the pledge of our love,
 than bring into the world an unhappy creature which might possibly cause
-its mother’s death."
+its mother’s death.”
 
-"I pray you, sir, let no more be said on the subject; it is a horrible
-crime even to think of such a thing."
+“I pray you, sir, let no more be said on the subject; it is a horrible
+crime even to think of such a thing.”
 
-"But what is to be done? Is it better to destroy two persons and perhaps
+“But what is to be done? Is it better to destroy two persons and perhaps
 kill a whole family with despair? Oh, madame, I entreat you, extricate
-us from this extremity!"
+us from this extremity!”
 
 The marquis buried his face in his hands, and sobbed as though he were
 weeping copiously.
 
-"Your despair grievously affects me," said the matron; "but consider
-that for a woman of my calling it is a capital offence."
+“Your despair grievously affects me,” said the matron; “but consider
+that for a woman of my calling it is a capital offence.”
 
-"What are you talking about? Do not our mystery, our safety, and our
+“What are you talking about? Do not our mystery, our safety, and our
 credit come in first?
 
-"They can never get at you till after the death and dishonour of all
-that is dear to me in the world."
+“They can never get at you till after the death and dishonour of all
+that is dear to me in the world.”
 
-"I might then, perhaps. But in this case you must insure me against
+“I might then, perhaps. But in this case you must insure me against
 legal complications, fines, and procure me a safe exit from the
-kingdom."
+kingdom.”
 
-"Ah! that is my affair. Take my whole fortune! Take my life!"
+“Ah! that is my affair. Take my whole fortune! Take my life!”
 
 And he threw the whole purse on the table.
 
-"In this case, and solely to extricate you from the extreme danger in
+“In this case, and solely to extricate you from the extreme danger in
 which I see you placed, I consent to give you a decoction, and certain
 instructions, which will instantly relieve the lady from her burden. She
 must use the greatest precaution, and study to carry out exactly what I
 am about to tell you. My God! only such desperate occasions as this one
-could induce me to—— Here——"
+could induce me to—— Here——”
 
 She took a flask from the bottom of a cupboard, and continued—
 
-"Here is a liquor which never fails."
+“Here is a liquor which never fails.”
 
-"Oh, madame, you save my honour, which is dearer to me than life! But
+“Oh, madame, you save my honour, which is dearer to me than life! But
 this is not enough: tell me what use I am to make of this liquor, and in
-what doses I am to administer it."
+what doses I am to administer it.”
 
-"The patient," replied the midwife, "must take one spoonful the first
-day; the second day two; the third——"
+“The patient,” replied the midwife, “must take one spoonful the first
+day; the second day two; the third——”
 
-"You will obey me to the minutest particular?"
+“You will obey me to the minutest particular?”
 
-"I swear it."
+“I swear it.”
 
-"Let us start, then."
+“Let us start, then.”
 
 She asked but for time to pack a little linen, put things in order, then
 fastened her doors, and left the house with the marquis. A quarter of an
@@ -1032,42 +1031,42 @@ suffered any inconvenience, for her pregnancy had become the most
 important affair in the household, and hardly anything else was talked
 about.
 
-"By the way," said the count, "you were speaking just now of a very
-skilful midwife; would it not be a good step to summon her?"
+“By the way,” said the count, “you were speaking just now of a very
+skilful midwife; would it not be a good step to summon her?”
 
-"I think," replied the marquis, "that it would be an excellent
+“I think,” replied the marquis, “that it would be an excellent
 selection, for I do not suppose there is one in this neighbourhood to
-compare to her."
+compare to her.”
 
-"I have a great mind to send for her at once, and to keep her about the
+“I have a great mind to send for her at once, and to keep her about the
 countess, whose constitution she will be all the better acquainted with
-if she studies it beforehand. Do you know where I can send for her?"
+if she studies it beforehand. Do you know where I can send for her?”
 
-"Faith," said the marquis, "she lives in a village, but I don’t know
-which."
+“Faith,” said the marquis, “she lives in a village, but I don’t know
+which.”
 
-"But at least you know her name?"
+“But at least you know her name?”
 
-"I can hardly remember it. Louise Boyard, I think, or Polliard, one or
-the other."
+“I can hardly remember it. Louise Boyard, I think, or Polliard, one or
+the other.”
 
-"How! have you not even retained the name?"
+“How! have you not even retained the name?”
 
-"I heard the story, that’s all. Who the deuce can keep a name in his
-head which he hears in such a chance fashion?"
+“I heard the story, that’s all. Who the deuce can keep a name in his
+head which he hears in such a chance fashion?”
 
-"But did the condition of the countess never occur to you?"
+“But did the condition of the countess never occur to you?”
 
-"It was so far away that I did not suppose you would send such a
-distance. I thought you were already provided."
+“It was so far away that I did not suppose you would send such a
+distance. I thought you were already provided.”
 
-"How can we set about to find her?"
+“How can we set about to find her?”
 
-"If that is all, I have a servant who knows people in that part of the
+“If that is all, I have a servant who knows people in that part of the
 country, and who knows how to go about things: if you like, he shall go
-in quest of her."
+in quest of her.”
 
-"If I like? This very moment."
+“If I like? This very moment.”
 
 The same evening the servant started on his errand with the count’s
 instructions, not forgetting those of his master. He went at full speed.
@@ -1271,14 +1270,14 @@ all; but the girl, laughingly pretending to be angry at this answer,
 pulled open one of the ends of the parcel before the midwife had time to
 stop her, and exposed to view some linen soaked in blood.
 
-"Madame has been confined, then?" she said to the matron.
+“Madame has been confined, then?” she said to the matron.
 
-"No," replied she briskly, "she has not."
+“No,” replied she briskly, “she has not.”
 
-The girl was unconvinced, and said, "How do you mean that she has not,
-when madame the marchioness, who was there, says she has?" The matron in
-great confusion replied, "She must have a very long tongue, if she said
-so."
+The girl was unconvinced, and said, “How do you mean that she has not,
+when madame the marchioness, who was there, says she has?” The matron in
+great confusion replied, “She must have a very long tongue, if she said
+so.”
 
 The girl’s evidence was later found most important.
 
@@ -1347,11 +1346,11 @@ a poor woman of the parish.
 
 The entry in the register was as follows:
 
-    "On the seventh day of March one thousand six hundred and
-     forty-two was baptized Bernard, son of .  .  .  and .  .  .  his
+    “On the seventh day of March one thousand six hundred and
+     forty−two was baptized Bernard, son of .  .  .  and .  .  .  his
      godfather being Paul Marmiou, day labourer and servant of this
      parish, and his godmother Jeanne Chevalier, widow of Pierre
-     Thibou."
+     Thibou.”
 
 A few days afterwards la Pigoreau put out the child to nurse in the
 village of Torcy en Brie, with a woman who had been her godmother, whose
@@ -1417,11 +1416,11 @@ having already five children he ought not to burden himself with any
 more, but he petitioned so earnestly that he obtained what he wanted.
 The countess wished to see it, and as she was about to start for Moulins
 she ordered it to be put in her women’s coach; when it was shown her,
-she cried out, "What a lovely child!" The boy was fair, with large blue
+she cried out, “What a lovely child!” The boy was fair, with large blue
 eyes and very regular features, She gave him a hundred caresses, which
 the child returned very prettily. She at once took a great fancy to him,
-and said to Baulieu, "I shall not put him in my women’s coach; I shall
-put him in my own."
+and said to Baulieu, “I shall not put him in my women’s coach; I shall
+put him in my own.”
 
 After they arrived at the chateau of Saint-Geran, her affection for
 Henri, the name retained by the child, increased day by day. She often
@@ -1450,7 +1449,7 @@ governor of a province and grandson of a marshal of France; that he
 spoke of the Marchioness de Bouille, said that he had made her rich, and
 that it was to him she owed her great wealth; and further, that one day
 having taken her to a pretty country seat which belonged to him, she
-praised its beauty, saying "c’etait un beau lieu"; he replied by a pun
+praised its beauty, saying “c’etait un beau lieu”; he replied by a pun
 on a man’s name, saying that he knew another Baulieu who had enabled him
 to make a fortune of five hundred thousand crowns. He also said to
 Jadelon, sieur de la Barbesange, when posting with him from Paris, that
@@ -1474,10 +1473,10 @@ ulterior consequences; seeing the lapse of time, but they were noted and
 commented on. Sometimes he would say that he held in his hand the life
 and honour of Madame the Marchioness de Bouille; sometimes that the
 count and countess had more reasons than they knew of for loving Henri.
-One day he put a case of conscience to a confessor, thus: "Whether a man
+One day he put a case of conscience to a confessor, thus: “Whether a man
 who had been concerned in the abduction of a child could not satisfy his
 conscience by restoring him to his father and mother without telling
-them who he was?" What answer the confessor made is not known, but
+them who he was?” What answer the confessor made is not known, but
 apparently it was not what the major-domo wanted. He replied to a
 magistrate of Moulins, who congratulated him on having a nephew whom his
 masters overburdened with kind treatment, that they ought to love him,
@@ -1530,21 +1529,21 @@ immediately, and appeared disconcerted.
 The countess noticed this without attaching any importance to it, and
 asked the subject of their conversation.
 
-"Oh, nothing," said the marchioness.
+“Oh, nothing,” said the marchioness.
 
-"But what is it?" insisted the countess, seeing that she blushed.
+“But what is it?” insisted the countess, seeing that she blushed.
 
 The marchioness, no longer able to evade the question, and feeling her
 difficulties increase, replied—
 
-"Dame Louise is praising my brother for bearing no ill-will to her."
+“Dame Louise is praising my brother for bearing no ill-will to her.”
 
-"Why?" said the countess, turning to the midwife,—"why should you fear
-any ill-will on the part of my husband?"
+“Why?” said the countess, turning to the midwife,—“why should you fear
+any ill-will on the part of my husband?”
 
-"I was afraid," said Louise Goillard awkwardly, "that he might have
+“I was afraid,” said Louise Goillard awkwardly, “that he might have
 taken a dislike to me on account of all that happened when you expected
-to be confined."
+to be confined.”
 
 The obscurity of these words and embarrassment of the two women produced
 a lively effect upon the countess; but she controlled herself and let
@@ -1623,14 +1622,14 @@ was imprisoned, threw some strange light on this affair. His master had
 narrated to him all the particulars of the accouchement of the countess
 and of the abduction of the child.
 
-"I am astonished, my lord," replied the page, "that having so many
+“I am astonished, my lord,” replied the page, “that having so many
 dangerous affairs on hand; you did not relieve your conscience of this
-one."
+one.”
 
-"I intend," replied the marquis, "to restore this child to his father: I
+“I intend,” replied the marquis, “to restore this child to his father: I
 have been ordered to do so by a Capuchin to whom I confessed having
 carried off from the midst of the family, without their knowing it, a
-grandson of a marshal of France and son of a governor of a province."
+grandson of a marshal of France and son of a governor of a province.”
 
 The marquis had at that time permission to go out from prison
 occasionally on his parole. This will not surprise anyone acquainted
@@ -1639,8 +1638,8 @@ nobleman, even the greatest criminal. The marquis, profiting by this
 facility, took the page to see a child of about seven years of age, fair
 and with a beautiful countenance.
 
-"Page," said he, "look well at this child, so that you may know him
-again when I shall send you to inquire about him."
+“Page,” said he, “look well at this child, so that you may know him
+again when I shall send you to inquire about him.”
 
 He then informed him that this was the Count de Saint-Geran’s son whom
 he had carried away.
@@ -1661,17 +1660,17 @@ entered the cell.
      sometimes shrieking like a wild beast, sometimes stammering
      disconnected words. All that the officers could hear was—
 
-"Monsieur le Comte . . . call . . . the Countess . . . de Saint-Geran .
-. . let them come. . . ." The officers earnestly begged him to try to be
+“Monsieur le Comte . . . call . . . the Countess . . . de Saint-Geran .
+. . let them come. . . .” The officers earnestly begged him to try to be
 more explicit.
 
 The marquis had another fit; when he opened his eyes, he said—
 
-"Send for the countess . . . let them forgive me . . . I wish to tell
-them everything." The police officers asked him to speak; one even told
+“Send for the countess . . . let them forgive me . . . I wish to tell
+them everything.” The police officers asked him to speak; one even told
 him that the count was there. The marquis feebly murmured—
 
-"I am going to tell you——" Then he gave a loud cry and fell back dead.
+“I am going to tell you——” Then he gave a loud cry and fell back dead.
 
 It thus seemed as if fate took pains to close every mouth from which the
 truth might escape. Still, this avowal of a deathbed revelation to be
@@ -1809,12 +1808,12 @@ After long and specious arguments, the attorney general Bijnon gave his
 decision in favour of the Count and Countess of Saint-Geran, concluding
 thus:—
 
-"The court rejects the civil appeal of la Pigoreau; and all the
+“The court rejects the civil appeal of la Pigoreau; and all the
 opposition and appeals of the appellants and the defendants; condemns
 them to fine and in costs; and seeing that the charges against la
 Pigoreau were of a serious nature, and that a personal summons had been
 decreed against her, orders her committal, recommending her to the
-indulgence of the court."
+indulgence of the court.”
 
 By a judgment given in a sitting at the Tournelle by M. de Mesmes, on
 the 18th of August 1657, the appellant ladies’ and the defendants’
@@ -1878,12 +1877,12 @@ countermarches which legal subtlety suggested to the litigants. At the
 end of three years, on the 9th of April 1661, the countess obtained a
 judgment by which the king in person:
 
-    "Assuming to his own decision the civil suit pending at the
+    “Assuming to his own decision the civil suit pending at the
      Tournelle, as well as the appeals pled by both parties, and the
      last petition of Mesdames du Lude and de Ventadour, sends back
      the whole case to the three assembled chambers of the States
      General, to be by them decided on its merits either jointly or
-     separately, as they may deem fit."
+     separately, as they may deem fit.”
 
 The countess thus returned to her first battlefield. Legal science
 produced an immense quantity of manuscript, barristers and attorneys
@@ -1892,34 +1891,34 @@ interminable hearing, and pleadings longer and more complicated than
 ever, which however did not bamboozle the court, judgment was pronounced
 in Conformity with the summing up of the attorney-general, thus—
 
-"That passing over the petition of Mesdames Marie de la Guiche and
-Eleonore de Bouille, on the grounds," etc. etc.;
+“That passing over the petition of Mesdames Marie de la Guiche and
+Eleonore de Bouille, on the grounds,” etc. etc.;
 
-"Evidence taken," etc.;
+“Evidence taken,” etc.;
 
-"Appeals, judgments annulled," etc.;
+“Appeals, judgments annulled,” etc.;
 
-"With regard to the petition of the late Claude de la Guiche and Suzanne
-de Longaunay, dated 12th August 1658,"
+“With regard to the petition of the late Claude de la Guiche and Suzanne
+de Longaunay, dated 12th August 1658,”
 
-"Ordered,
+“Ordered,
 
-"That the rule be made absolute;
+“That the rule be made absolute;
 
-"Which being done, Bernard de la Guiche is pronounced, maintained, and
+“Which being done, Bernard de la Guiche is pronounced, maintained, and
 declared the lawfully born and legitimate son of Claude de la Guiche and
 Suzanne de Longaunay; in possession and enjoyment of the name and arms
 of the house of Guiche, and of all the goods left by Claude de la
 Guiche, his father; and Marie de la Guiche and Eleonore de Bouille are
 interdicted from interfering with him;
 
-"The petitions of Eleonore de Bouille and Marie de la Guiche, dated 4th
+“The petitions of Eleonore de Bouille and Marie de la Guiche, dated 4th
 June 1664, 4th August 1665, 6th January, 10th February, 12th March, 15th
 April, and 2nd June, 1666, are dismissed with costs;
 
-"Declared,
+“Declared,
 
-"That the defaults against la Pigoreau are confirmed; and that she,
+“That the defaults against la Pigoreau are confirmed; and that she,
 arraigned and convicted of the offences imputed to her, is condemned to
 be hung and strangled at a gallows erected in the Place de Greve in this
 city, if taken and apprehended; otherwise, in effigy at a gallows
@@ -1928,7 +1927,7 @@ to confiscation is seized and confiscated from whomsoever may be in
 possession of it; on which property and other not subject to
 confiscation, is levied a fine of eight hundred Paris livres, to be paid
 to the King, and applied to the maintenance of prisoners in the
-Conciergerie of the Palace of justice, and to the costs."
+Conciergerie of the Palace of justice, and to the costs.”
 
 Possibly a more obstinate legal contest was never waged, on both sides,
 but especially by those who lost it. The countess, who played the part
@@ -1947,7 +1946,7 @@ illustrious family became extinct.
 
 
 
-                                  ————
+                                  ――――
 
 *** END OF THIS PROJECT GUTENBERG EBOOK THE COUNTESS OF SAINT-GERAN ***
 
@@ -1961,21 +1960,22 @@ We will update this book if we find any errors.
 
 This book can be found under: http://www.gutenberg.org/ebooks/2754
 
-Creating the works from public domain print editions means that no one
-owns a United States copyright in these works, so the Foundation (and
-you!) can copy and distribute it in the United States without permission
-and without paying copyright royalties.  Special rules, set forth in the
-General Terms of Use part of this license, apply to copying and
-distributing Project Gutenberg™ electronic works to protect the Project
-Gutenberg™ concept and trademark. Project Gutenberg is a registered
-trademark, and may not be used if you charge for the eBooks, unless you
-receive specific permission. If you do not charge anything for copies of
-this eBook, complying with the rules is very easy. You may use this
-eBook for nearly any purpose such as creation of derivative works,
-reports, performances and research. They may be modified and printed and
-given away – you may do practically _anything_ with public domain
-eBooks.  Redistribution is subject to the trademark license, especially
-commercial redistribution.
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works, so
+the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright royalties.
+Special rules, set forth in the General Terms of Use part of this
+license, apply to copying and distributing Project Gutenberg™ electronic
+works to protect the Project Gutenberg™ concept and trademark. Project
+Gutenberg is a registered trademark, and may not be used if you charge
+for the eBooks, unless you receive specific permission. If you do not
+charge anything for copies of this eBook, complying with the rules is
+very easy. You may use this eBook for nearly any purpose such as
+creation of derivative works, reports, performances and research.  They
+may be modified and printed and given away – you may do practically
+_anything_ in the United States with eBooks not protected by U.S.
+copyright law. Redistribution is subject to the trademark license,
+especially commercial redistribution.
 
 
 
@@ -2021,9 +2021,9 @@ paragraph 1.E below.
 Foundation” or PGLAF), owns a compilation copyright in the collection of
 Project Gutenberg™ electronic works. Nearly all the individual works in
 the collection are in the public domain in the United States. If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you
-from copying, distributing, performing, displaying or creating
+individual work is unprotected by copyright law in the United States and
+you are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
 derivative works based on the work as long as all references to Project
 Gutenberg are removed. Of course, we hope that you will support the
 Project Gutenberg™ mission of promoting free access to electronic works
@@ -2032,6 +2032,7 @@ of this agreement for keeping the Project Gutenberg™ name associated
 with the work. You can easily comply with the terms of this agreement by
 keeping this work in the same format with its attached full Project
 Gutenberg™ License when you share it without charge with others.
+
 
 *1.D.* The copyright laws of the place where you are located also govern
 what you can do with this work. Copyright laws in most countries are in
@@ -2051,20 +2052,25 @@ which the phrase “Project Gutenberg” appears, or with which the phrase
 “Project Gutenberg” is associated) is accessed, displayed, performed,
 viewed, copied or distributed:
 
-    This eBook is for the use of anyone anywhere at no cost and with
+    This eBook is for the use of anyone anywhere in the United
+    States and most other parts of the world at no cost and with
     almost no restrictions whatsoever. You may copy it, give it away
     or re-use it under the terms of the Project Gutenberg License
-    included with this eBook or online at http://www.gutenberg.org
+    included with this eBook or online at http://www.gutenberg.org .
+    If you are not located in the United States, you’ll have to
+    check the laws of the country where you are located before using
+    this ebook.
 
 *1.E.2.* If an individual Project Gutenberg™ electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges. If you are redistributing or providing access to a work with
-the phrase “Project Gutenberg” associated with or appearing on the work,
-you must comply either with the requirements of paragraphs 1.E.1 through
-1.E.7 or obtain permission for the use of the work and the Project
-Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+from texts not protected by U.S. copyright law (does not contain a
+notice indicating that it is posted with permission of the copyright
+holder), the work can be copied and distributed to anyone in the United
+States without paying any fees or charges. If you are redistributing or
+providing access to a work with the phrase “Project Gutenberg”
+associated with or appearing on the work, you must comply either with
+the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission
+for the use of the work and the Project Gutenberg™ trademark as set
+forth in paragraphs 1.E.8 or 1.E.9.
 
 *1.E.3.* If an individual Project Gutenberg™ electronic work is posted
 with the permission of the copyright holder, your use and distribution
@@ -2135,21 +2141,22 @@ that
 *1.E.9.* If you wish to charge a fee or distribute a Project Gutenberg™
 electronic work or group of works on different terms than are set forth
 in this agreement, you must obtain permission in writing from both the
-Project Gutenberg Literary Archive Foundation and Michael Hart, the
-owner of the Project Gutenberg™ trademark. Contact the Foundation as set
-forth in Section 3. below.
+Project Gutenberg Literary Archive Foundation and The Project Gutenberg
+Trademark LLC, the owner of the Project Gutenberg™ trademark. Contact
+the Foundation as set forth in Section 3. below.
 
 *1.F.*
 
 *1.F.1.* Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg™ collection.
-Despite these efforts, Project Gutenberg™ electronic works, and the
-medium on which they may be stored, may contain “Defects,” such as, but
-not limited to, incomplete, inaccurate or corrupt data, transcription
-errors, a copyright or other intellectual property infringement, a
-defective or damaged disk or other medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by your
+equipment.
 
 *1.F.2.* LIMITED WARRANTY, DISCLAIMER OF DAMAGES – Except for the “Right
 of Replacement or Refund” described in paragraph 1.F.3, the Project
@@ -2180,7 +2187,7 @@ opportunities to fix the problem.
 *1.F.4.* Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you ‘AS-IS,’ WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
 *1.F.5.* Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
@@ -2235,13 +2242,13 @@ http://www.gutenberg.org/fundraising/pglaf . Contributions to the
 Project Gutenberg Literary Archive Foundation are tax deductible to the
 full extent permitted by U.S.  federal laws and your state’s laws.
 
-The Foundation’s principal office is located at 4557 Melan Dr.
-S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations. Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org. Email contact links and up to date contact
-information can be found at the Foundation’s web site and official page
-at http://www.pglaf.org
+The Foundation’s principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its volunteers
+and employees are scattered throughout numerous locations. Its business
+office is located at 809 North 1500 West, Salt Lake City, UT 84116,
+(801) 596-1887, email business@pglaf.org. Email contact links and up to
+date contact information can be found at the Foundation’s web site and
+official page at http://www.pglaf.org
 
 For additional contact information:
 
@@ -2296,9 +2303,9 @@ with anyone. For thirty years, he produced and distributed Project
 Gutenberg™ eBooks with only a loose network of volunteer support.
 
 Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S. unless
-a copyright notice is included. Thus, we do not necessarily keep eBooks
-in compliance with any particular paper edition.
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper edition.
 
 Each eBook is in a subdirectory of the same number as the eBook’s eBook
 number, often in several formats including plain vanilla ASCII,
